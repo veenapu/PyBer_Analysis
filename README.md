@@ -20,7 +20,7 @@ The Summary DataFrame shows the differences in ride-sharing data among the diffe
 The Summary DataFrame is quite informative and helps us to draw the following conclusions:
 - Urban cities generated the most rides and total fares by a considerable amount followed by Suburban cities and then Rural cities
 - Urban cities also had the most drivers followed by Suburban cities then Rural cities. 
-- Urban cities are also so heavily saturated by drivers, therefore the average fare per ride and fare per driver are much lower than the Suburban and Rural cities
+- Urban cities are also so heavily saturated by drivers, therefore the average fare per ride and fare per driver are much lower than the   Suburban and Rural cities
 
 **Summary DataFrame**
 ![Summary DataFrame](https://github.com/veenapu/PyBer_Analysis/blob/main/Analysis/Summary%20DataFrame.png)
