@@ -1,11 +1,11 @@
-# **PYBER ANALYSIS**
+# PYBER ANALYSIS
 
 ## **Overview and purpose the PyBer analysis: 
 - Using Python skills and knowledge of Pandas, create a summary DataFrame of the ride-sharing data by city type. 
 - Using Pandas and Matplotlib, create a multiple-line graph that shows the total weekly fares for each city type. 
 - Write a report that summarizes how the data differs by city type and how those differences can be used by decision-makers at PyBer.
 
-# Resources
+## **Resources**
 - File Source: ride_data.csv
 - File Source: city_data.csv
 - Software: Jupyter Notebook 6.4.8
