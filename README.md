@@ -23,7 +23,6 @@ The Summary DataFrame is quite informative and helps us to draw the following co
 - Urban cities are also so heavily saturated by drivers, therefore the average fare per ride and fare per driver are much lower than the Suburban and Rural cities
 
 **Summary DataFrame**
-
 ![Summary DataFrame](https://github.com/veenapu/PyBer_Analysis/blob/main/Analysis/Summary%20DataFrame.png)
  
 Possibly due to higher population and higher usage of cabs in Urban cities, Total rides, Total Drivers and Total Fares increased compared to Suburban and Rural cities.
@@ -34,7 +33,6 @@ The graph below shows that the Total Fare by City Type never intersects. Urban c
 Each city type has an overall positive growth which shows the company is growing.
 
 **PyBer Fare Summary**
- 
 ![PyBer Fare Summary](https://github.com/veenapu/PyBer_Analysis/blob/main/Analysis/PyBer_Fare_Summary.png)
 
 ## **Summary**	
