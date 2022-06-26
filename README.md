@@ -35,7 +35,7 @@ Each city type has an overall positive growth which shows the company is growing
 
 PyBer Fare Summary
  
-![PyBer Fare Summary](https://github.com/veenapu/PyBer_Analysis/blob/main/Analysis/PyBer_Fare_Summary.png))
+![PyBer Fare Summary](https://github.com/veenapu/PyBer_Analysis/blob/main/Analysis/PyBer_Fare_Summary.png)
 
 ## **Summary**	
 
